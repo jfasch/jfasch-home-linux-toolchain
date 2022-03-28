@@ -1,0 +1,4 @@
+hello-first
+*.o
+hello-second
+*.so
